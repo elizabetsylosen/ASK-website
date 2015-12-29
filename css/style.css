@@ -70,22 +70,19 @@ footer.page-footer {
 
 .header-parent { 
   position: relative;
-  background-color: #673ab7; 
   color: white; 
-  background-image: url('../images/sponsors/FB Cover.png');
-  /*height: 95vh; */
+  background-color: navy; 
 }
 
 .header-card { 
-  position: absolute;
+/*  position: absolute;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
-  width: 50%;
-  height: 35%;
-  margin: auto; 
-  background-image: url('../images/sponsors/FB Cover.png');
+/*  width: 50%;*/
+/*  height: 2;*/
+  margin: auto; */
 }
 
 /*#particles-js { 
@@ -93,7 +90,10 @@ footer.page-footer {
 }*/
 
 .club-name { 
-  background-color: #7e57c2; 
+  background-image: url('../images/FB Cover.png'); 
+  background-position: center;
+  background-repeat: no-repeat; 
+  height: 315px;
 }
 
 a { 
