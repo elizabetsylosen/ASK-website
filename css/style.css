@@ -8,7 +8,7 @@
 
 nav ul a,
 nav .brand-logo {
-  color: #e0e0e0;
+  color: #01579b;
 }
 
 p {
@@ -16,7 +16,7 @@ p {
 }
 
 .button-collapse {
-  color: #e0e0e0 ;
+  color: #01579b ;
 }
 
 .parallax-container {
@@ -71,7 +71,7 @@ footer.page-footer {
 .header-parent { 
   position: relative;
   color: white; 
-  background-color: navy; 
+  background-color: #bdbdbd; 
 }
 
 .header-card { 
@@ -91,13 +91,14 @@ footer.page-footer {
 
 .club-name { 
   background-image: url('../images/FB Cover.png'); 
+  background-color: #bdbdbd;
   background-position: center;
   background-repeat: no-repeat; 
   height: 315px;
 }
 
 a { 
-  color: #673ab7;
+  color: #01579b;
 }
 
 .about-special { 
@@ -106,4 +107,8 @@ a {
 
 .logo { 
   max-width: 500px; 
+}
+
+.fancy-color {
+  color:"#eeeeee"; 
 }
