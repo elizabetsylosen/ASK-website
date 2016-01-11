@@ -47,8 +47,7 @@ p {
     font-size: 5px;
   }
   .club-name {
-    
-    max-width:50%;
+    background-size: 95%;
   }
 }
 
@@ -60,8 +59,7 @@ p {
     font-size: 5px;
   }
   .club-name {
-    
-    max-width:50%;
+    background-size: 95%;
   }
 }
 
