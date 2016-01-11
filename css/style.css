@@ -52,6 +52,9 @@ p {
   #index-banner .section {
     top: 0;
   }
+  .club-name {
+    top:50%;
+  }
 }
 
 .icon-block {
