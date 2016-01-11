@@ -43,11 +43,23 @@ p {
   #index-banner .section {
     top: 10%;
   }
+  .brand-logo {
+    font-size: 5px;
+  }
+  .club-name {
+    background-size: 95%;
+  }
 }
 
 @media only screen and (max-width : 600px) {
   #index-banner .section {
     top: 0;
+  }
+  .brand-logo {
+    font-size: 5px;
+  }
+  .club-name {
+    background-size: 95%;
   }
 }
 
