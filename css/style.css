@@ -44,7 +44,7 @@ p {
     top: 10%;
   }
   .brand-logo {
-
+    font-size: 1em;
   }
   .club-name {
     max-width:50%;
@@ -54,6 +54,9 @@ p {
 @media only screen and (max-width : 600px) {
   #index-banner .section {
     top: 0;
+  }
+  .brand-logo {
+    font-size: 1em;
   }
   .club-name {
     max-width:50%;
